@@ -21,4 +21,4 @@ class Gerency():
                 print(f"Você não deve ir aula hoje, há a probabilidade de importancia de {self.probalityCalculate(self.subjects)}")
         else:
             print("Você não deve ir!")
-                
+
